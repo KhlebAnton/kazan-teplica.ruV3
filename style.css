@@ -1175,6 +1175,20 @@ grid-template-columns: 1fr 1fr 1fr;
         border-radius: 16px 16px 0 0;
     }
 }
+@media (max-width:650px) {
+    .contacts-our,
+    .contacts__wrapper {
+        grid-template-columns: 1fr;
+    }
+    .logo-page_about {
+        display: none;
+    }
+    .contacts__company-info {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        
+    }
+}
 @media (max-width:500px) {
     .product-container.container__polik-product .product,
     .product {
@@ -1200,4 +1214,5 @@ grid-template-columns: 1fr 1fr 1fr;
     .product-container {
         width: 100%;
     }
+   
 }

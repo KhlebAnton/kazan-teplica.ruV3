@@ -248,7 +248,9 @@ function setContent(sectionID, subID, scroll = true) {
 
                 const productInfoHtml = document.createElement('div');
                 productInfoHtml.classList.add('product__info');
-
+                if(!product.availability) {
+                    productInfoHtml.classList.add('product__info_availability');
+                }
                 productInfoHtml.innerHTML = `
                                 <img class="product__info-img" src="../${product.image}" alt="${product.name}">             
                         `;
@@ -256,6 +258,9 @@ function setContent(sectionID, subID, scroll = true) {
 
                 const productSelectorDesc = document.createElement('div');
                 productSelectorDesc.classList.add('selector-descs');
+                if (!product.availability) {
+                    productSelectorDesc.classList.add('def');
+                }
                 productSelectorDesc.innerHTML += `<h3>${product.name}</h3>`;
 
                 const btnGroupLength = document.createElement('div');
@@ -272,8 +277,24 @@ function setContent(sectionID, subID, scroll = true) {
                 productSelectorDesc.appendChild(btnGroupLength);
                 productHtml.appendChild(productSelectorDesc);
 
+                if(product.availability) {
 
-                productHtml.appendChild(getDescription(product.buttons));
+                    productHtml.appendChild(getDescription(product.buttons));
+                } else {
+                    productHtml.innerHTML += `
+                    <div class="availability-info">
+                    <span>Сожалеем...</span>
+                    <span>Но данной позиции нет в наличии,</span>
+                    <span>уточните поступление по номеру: </span>
+                   
+                    <a href="tel:+79872165566">+7(987)-216-55-66</a>
+                    <a href="tel:+79196897195">+7(919)-689-71-95</a>
+                    
+                    <a href="#" class="nav_item call" ontouchstart>Написать нам</a>
+                    </div>
+                `;
+                }
+               
 
 
                 productContainer.appendChild(productHtml);

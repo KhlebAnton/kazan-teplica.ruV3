@@ -11,7 +11,7 @@
                         {
                             "name": "Теплица Капля",
                             "image": "img/catalog/grennhouse/kaplya.jpg",
-                            "availability": false,
+                            "availability": true,
                             "buttons": [
                                 {
                                     "label": "4 м",
@@ -296,7 +296,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Коричневый",
@@ -332,7 +333,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Бирюза",
@@ -368,7 +370,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Синий",
@@ -404,7 +407,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Гранат",
@@ -440,7 +444,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Зеленый",
@@ -476,7 +481,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Оранжевый",
@@ -512,7 +518,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Красный",
@@ -548,7 +555,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Желтый",
@@ -584,7 +592,8 @@
                                         "price": "4447"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         }
                     ]
                 },
@@ -614,7 +623,8 @@
                                         "price": "7296"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Серый",
@@ -638,7 +648,8 @@
                                         "price": "7170"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Коричневый",
@@ -662,7 +673,8 @@
                                         "price": "7170"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         }
                     ]
                 },
@@ -684,7 +696,8 @@
                                         "price": "1812"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Прозрачный",
@@ -700,7 +713,8 @@
                                         "price": "2023"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Прозрачный",
@@ -716,7 +730,8 @@
                                         "price": "2207"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Прозрачный",
@@ -732,7 +747,8 @@
                                         "price": "3004"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Прозрачный",
@@ -748,7 +764,8 @@
                                         "price": "3900"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Прозрачный",
@@ -764,7 +781,8 @@
                                         "price": "3733"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Прозрачный",
@@ -780,7 +798,8 @@
                                         "price": "4995"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         }
                     ]
                 },
@@ -837,7 +856,8 @@
                                         "price": "16420"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         },
                         {
                             "name": "Бронза",
@@ -879,7 +899,8 @@
                                         "price": "17250"
                                     }
                                 }
-                            ]
+                            ],
+                            "availability": true
                         }
                     ]
                 }
