@@ -1,0 +1,889 @@
+{
+    "sections": [
+        {
+            "title": "Теплицы",
+            "content": [
+                {
+                    "title": "Теплицы",
+                    "polick": "Тепличный",
+                    "availability": true,
+                    "content": [
+                        {
+                            "name": "Теплица Капля",
+                            "image": "img/catalog/grennhouse/kaplya.jpg",
+                            "availability": false,
+                            "buttons": [
+                                {
+                                    "label": "4 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный",
+                                        "base": "20x40мм",
+                                        "arc": "20x40мм",
+                                        "distance": "0.65м",
+                                        "width": "3м",
+                                        "price": "16790"
+                                    }
+                                },
+                                {
+                                    "label": "6 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный",
+                                        "base": "20x40мм",
+                                        "arc": "20x40мм",
+                                        "distance": "0.65м",
+                                        "width": "3м",
+                                        "price": "22310"
+                                    }
+                                },
+                                {
+                                    "label": "8 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный",
+                                        "arc": "20x40мм",
+                                        "base": "20x40мм",
+                                        "distance": "0.65м",
+                                        "width": "3м",
+                                        "price": "27830"
+                                    }
+                                },
+                                {
+                                    "label": "10 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный",
+                                        "arc": "20x40мм",
+                                        "base": "20x40мм",
+                                        "distance": "0.65м",
+                                        "width": "3м",
+                                        "price": "33350"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Теплица 20*40",
+                            "image": "img/catalog/grennhouse/teplica20x40.jpg",
+                            "availability": true,
+                            "buttons": [
+                                {
+                                    "label": "4 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный",
+                                        "base": "20x40мм",
+                                        "arc": "20x40мм на ребро",
+                                        "distance": "0.67м",
+                                        "width": "3м",
+                                        "price": "12000"
+                                    }
+                                },
+                                {
+                                    "label": "6 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный",
+                                        "base": "20x40мм",
+                                        "arc": "20x40мм на ребро",
+                                        "distance": "0.67м",
+                                        "width": "3м",
+                                        "price": "15400"
+                                    }
+                                },
+                                {
+                                    "label": "8 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный",
+                                        "base": "20x40мм",
+                                        "arc": "20x40мм на ребро",
+                                        "distance": "0.67м",
+                                        "width": "3м",
+                                        "price": "18800"
+                                    }
+                                },
+                                {
+                                    "label": "10 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный",
+                                        "base": "20x40мм",
+                                        "arc": "20x40мм на ребро",
+                                        "distance": "0.67м",
+                                        "width": "3м",
+                                        "price": "22200"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Парник",
+                            "image": "img/catalog/grennhouse/parnik.jpg",
+                            "availability": true,
+                            "buttons": [
+                                {
+                                    "label": "2 м",
+                                    "description": {
+                                        "arc": "20x20мм",
+                                        "hiegth": "0.7м",
+                                        "width": "1м",
+                                        "price": "4970"
+                                    }
+                                },
+                                {
+                                    "label": "3 м",
+                                    "description": {
+                                        "arc": "20x20мм",
+                                        "hiegth": "0.7м",
+                                        "width": "1м",
+                                        "price": "5800"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Теплица Прямостенная",
+                            "image": "img/catalog/grennhouse/pryamosten.jpg",
+                            "availability": true,
+                            "buttons": [
+                                {
+                                    "label": "4 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный со 2ой дугой",
+                                        "base": "20x40мм",
+                                        "arc": "20x20мм и 20x40мм",
+                                        "distance": "0.67м",
+                                        "width": "3м",
+                                        "price": "30550"
+                                    }
+                                },
+                                {
+                                    "label": "6 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный со 2ой дугой",
+                                        "base": "20x40мм",
+                                        "arc": "20x20мм и 20x40мм",
+                                        "distance": "0.67м",
+                                        "width": "3м",
+                                        "price": "41600"
+                                    }
+                                },
+                                {
+                                    "label": "8 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный со 2ой дугой",
+                                        "base": "20x40мм",
+                                        "arc": "20x20мм и 20x40мм",
+                                        "distance": "0.67м",
+                                        "width": "3м",
+                                        "price": "52650"
+                                    }
+                                },
+                                {
+                                    "label": "10 м",
+                                    "description": {
+                                        "secondArc": "Оцинкованный со 2ой дугой",
+                                        "base": "20x40мм",
+                                        "arc": "20x20мм и 20x40мм",
+                                        "distance": "0.67м",
+                                        "width": "3м",
+                                        "price": "63700"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Мебель для дачи",
+                    "polick": "Цветной",
+                    "availability": true,
+                    "content": [
+                        {
+                            "name": "Беседка Летняя",
+                            "image": "img/catalog/cottage-furniture/besedkajpg.jpg",
+                            "availability": true,
+                            "buttons": [
+                                {
+                                    "label": "2 м",
+                                    "description": {
+                                        "capacity": "6",
+                                        "heigth": "1.8м",
+                                        "arc": "20x30мм",
+                                        "length": "2м",
+                                        "width": "2м",
+                                        "price": "16560"
+                                    }
+                                },
+                                {
+                                    "label": "3 м",
+                                    "description": {
+                                        "capacity": "8",
+                                        "heigth": "1.8м",
+                                        "arc": "20x30мм",
+                                        "length": "3м",
+                                        "width": "2м",
+                                        "price": "20700"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Беседка Бочка",
+                            "image": "img/catalog/cottage-furniture/besBochka.jpg",
+                            "availability": true,
+                            "buttons": [
+                                {
+                                    "label": "2 м",
+                                    "description": {
+                                        "capacity": "6",
+                                        "heigth": "1.8м",
+                                        "arc": "20x30мм",
+                                        "length": "2м",
+                                        "width": "2м",
+                                        "price": "16560"
+                                    }
+                                },
+                                {
+                                    "label": "3 м",
+                                    "description": {
+                                        "capacity": "8",
+                                        "heigth": "1.8м",
+                                        "arc": "20x30мм",
+                                        "length": "3м",
+                                        "width": "2м",
+                                        "price": "20700"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Поликарбонат",
+            "content": [
+                {
+                    "title": "Цветной",
+                    "availability": true,
+                    "content": [
+                        {
+                            "name": "Серый",
+                            "image": "img/catalog/engineer/grey.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Коричневый",
+                            "image": "img/catalog/engineer/brown.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Бирюза",
+                            "image": "img/catalog/engineer/biruyza.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Синий",
+                            "image": "img/catalog/engineer/blue.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Гранат",
+                            "image": "img/catalog/engineer/granat.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Зеленый",
+                            "image": "img/catalog/engineer/green.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Оранжевый",
+                            "image": "img/catalog/engineer/orange.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Красный",
+                            "image": "img/catalog/engineer/red.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Желтый",
+                            "image": "img/catalog/engineer/yellow.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.510 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "2532"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "10 лет",
+                                        "price": "3900"
+                                    }
+                                },
+                                {
+                                    "label": "8 мм",
+                                    "description": {
+                                        "thickness": "8 мм",
+                                        "density": "0.900 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "12 лет",
+                                        "price": "4447"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Инженерный",
+                    "availability": true,
+                    "content": [
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/engineer/white204w.jpg",
+                            "buttons": [
+                                {
+                                    "label": "Стандарт",
+                                    "description": {
+                                        "thickness": "10 мм",
+                                        "density": "1.0 кг/м²",
+                                        "warranty": "5 лет",
+                                        "price": "4968"
+                                    }
+                                },
+                                {
+                                    "label": "Премиум",
+                                    "description": {
+                                        "thickness": "10 мм",
+                                        "density": "1.45 кг/м²",
+                                        "warranty": "7 лет",
+                                        "price": "7296"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Серый",
+                            "image": "img/catalog/engineer/grey.jpg",
+                            "buttons": [
+                                {
+                                    "label": "Стандарт",
+                                    "description": {
+                                        "thickness": "10 мм",
+                                        "density": "1.0 кг/м²",
+                                        "warranty": "5 лет",
+                                        "price": "5205"
+                                    }
+                                },
+                                {
+                                    "label": "Премиум",
+                                    "description": {
+                                        "thickness": "10 мм",
+                                        "density": "1.45 кг/м²",
+                                        "warranty": "7 лет",
+                                        "price": "7170"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Коричневый",
+                            "image": "img/catalog/engineer/brown.jpg",
+                            "buttons": [
+                                {
+                                    "label": "Стандарт",
+                                    "description": {
+                                        "thickness": "10 мм",
+                                        "density": "1.0 кг/м²",
+                                        "warranty": "5 лет",
+                                        "price": "5205"
+                                    }
+                                },
+                                {
+                                    "label": "Премиум",
+                                    "description": {
+                                        "thickness": "10 мм",
+                                        "density": "1.45 кг/м²",
+                                        "warranty": "7 лет",
+                                        "price": "7170"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Тепличный",
+                    "availability": true,
+                    "content": [
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/engineer/white204w.jpg",
+                            "buttons": [
+                                {
+                                    "label": "3 мм",
+                                    "description": {
+                                        "thickness": "3 мм",
+                                        "density": "0.375 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "8 лет",
+                                        "price": "1812"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/engineer/white204w.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм Эконом",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.420 кг/м²",
+                                        "warranty": "3 года",
+                                        "lifeTime": "8 лет",
+                                        "price": "2023"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/engineer/white204w.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм Стандарт",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.470 кг/м²",
+                                        "warranty": "5 лет",
+                                        "lifeTime": "10 лет",
+                                        "price": "2207"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/engineer/white204w.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм Премиум",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.600 кг/м²",
+                                        "warranty": "7 года",
+                                        "lifeTime": "14 лет",
+                                        "price": "3004"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/engineer/white204w.jpg",
+                            "buttons": [
+                                {
+                                    "label": "4 мм ГОСТ",
+                                    "description": {
+                                        "thickness": "4 мм",
+                                        "density": "0.800 кг/м²",
+                                        "warranty": "15 лет",
+                                        "lifeTime": "20 лет",
+                                        "price": "3900"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/engineer/white204w.jpg",
+                            "buttons": [
+                                {
+                                    "label": "6 мм Стандарт",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "0.750 кг/м²",
+                                        "warranty": "7 лет",
+                                        "lifeTime": "14 лет",
+                                        "price": "3733"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/engineer/white204w.jpg",
+                            "buttons": [
+                                {
+                                    "label": "6 мм Премиум",
+                                    "description": {
+                                        "thickness": "6 мм",
+                                        "density": "1.00 кг/м²",
+                                        "warranty": "10 лет",
+                                        "lifeTime": "15 лет",
+                                        "price": "4995"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Монолит",
+                    "availability": false,
+                    "content": [
+                        {
+                            "name": "Прозрачный",
+                            "image": "img/catalog/monolit/white.jpg",
+                            "buttons": [
+                                {
+                                    "label": "1.5 мм",
+                                    "description": {
+                                        "thickness": "1.5 мм",
+                                        "weight": "11.254 кг",
+                                        "size": "2.05 x 3.05",
+                                        "price": "4560"
+                                    }
+                                },
+                                {
+                                    "label": "3 мм",
+                                    "description": {
+                                        "thickness": "3(2.7) мм",
+                                        "weight": "20.258",
+                                        "size": "2.05 x 3.05",
+                                        "price": "8210"
+                                    }
+                                },
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4(3.6) мм",
+                                        "weight": "27.01 кг",
+                                        "size": "2.05 x 3.05",
+                                        "price": "10950"
+                                    }
+                                },
+                                {
+                                    "label": "5 мм",
+                                    "description": {
+                                        "thickness": "5(4.5) мм",
+                                        "weight": "33.763 кг",
+                                        "size": "2.05 x 3.05",
+                                        "price": "13690"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6(5.4) мм",
+                                        "weight": "40.52 кг",
+                                        "size": "2.05 x 3.05",
+                                        "price": "16420"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Бронза",
+                            "image": "img/catalog/monolit/grey.jpg",
+                            "buttons": [
+                                {
+                                    "label": "3 мм",
+                                    "description": {
+                                        "thickness": "3(2.7) мм",
+                                        "weight": "20.258",
+                                        "size": "2.05 x 3.05",
+                                        "price": "8620"
+                                    }
+                                },
+                                {
+                                    "label": "4 мм",
+                                    "description": {
+                                        "thickness": "4(3.6) мм",
+                                        "weight": "27.01 кг",
+                                        "size": "2.05 x 3.05",
+                                        "price": "11500"
+                                    }
+                                },
+                                {
+                                    "label": "5 мм",
+                                    "description": {
+                                        "thickness": "5(4.5) мм",
+                                        "weight": "33.763 кг",
+                                        "size": "2.05 x 3.05",
+                                        "price": "14370"
+                                    }
+                                },
+                                {
+                                    "label": "6 мм",
+                                    "description": {
+                                        "thickness": "6(5.4) мм",
+                                        "weight": "40.52 кг",
+                                        "size": "2.05 x 3.05",
+                                        "price": "17250"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

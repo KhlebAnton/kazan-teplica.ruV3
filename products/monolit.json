@@ -1,0 +1,97 @@
+{
+  "monolit": [
+    {
+      "name": "Прозрачный",
+      "image": "img/catalog/monolit/white.jpg",
+      "buttons": [
+        {
+          "label": "1.5 мм",
+          "description": {
+            "thickness": "1.5 мм",
+            "weight": "11.254 кг",
+            "size": "2.05 x 3.05",
+            "price": "4560"
+          }
+        },
+        {
+          "label": "3 мм",
+          "description": {
+            "thickness": "3(2.7) мм",
+            "weight": "20.258",
+            "size": "2.05 x 3.05",
+            "price": "8210"
+          }
+        },
+        {
+          "label": "4 мм",
+          "description": {
+            "thickness": "4(3.6) мм",
+            "weight": "27.01 кг",
+            "size": "2.05 x 3.05",
+            "price": "10950"
+          }
+        },
+        {
+          "label": "5 мм",
+          "description": {
+            "thickness": "5(4.5) мм",
+            "weight": "33.763 кг",
+            "size": "2.05 x 3.05",
+            "price": "13690"
+          }
+        },
+        {
+          "label": "6 мм",
+          "description": {
+            "thickness": "6(5.4) мм",
+            "weight": "40.52 кг",
+            "size": "2.05 x 3.05",
+            "price": "16420"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Бронза",
+      "image": "img/catalog/monolit/grey.jpg",
+      "buttons": [
+        {
+          "label": "3 мм",
+          "description": {
+            "thickness": "3(2.7) мм",
+            "weight": "20.258",
+            "size": "2.05 x 3.05",
+            "price": "8620"
+          }
+        },
+        {
+          "label": "4 мм",
+          "description": {
+            "thickness": "4(3.6) мм",
+            "weight": "27.01 кг",
+            "size": "2.05 x 3.05",
+            "price": "11500"
+          }
+        },
+        {
+          "label": "5 мм",
+          "description": {
+            "thickness": "5(4.5) мм",
+            "weight": "33.763 кг",
+            "size": "2.05 x 3.05",
+            "price": "14370"
+          }
+        },
+        {
+          "label": "6 мм",
+          "description": {
+            "thickness": "6(5.4) мм",
+            "weight": "40.52 кг",
+            "size": "2.05 x 3.05",
+            "price": "17250"
+          }
+        }
+      ]
+    }
+  ]
+}

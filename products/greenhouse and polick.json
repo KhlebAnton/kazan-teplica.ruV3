@@ -1,0 +1,296 @@
+{
+  "greenhouse-polick": [
+    {
+      "name": "Прозрачный",
+      "image": "img/catalog/engineer/white204w.jpg",
+      "buttons": [
+        {
+          "label": "3 мм",
+          "description": {
+            "thickness": "3 мм",
+            "density": "0.375 кг/м²",
+            "warranty": "3 года",
+            "lifeTime": "8 лет",
+            "price": "1812"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Прозрачный",
+      "image": "img/catalog/engineer/white204w.jpg",
+      "buttons": [
+        {
+          "label": "4 мм Эконом",
+          "description": {
+            "thickness": "4 мм",
+            "density": "0.420 кг/м²",
+            "warranty": "3 года",
+            "lifeTime": "8 лет",
+            "price": "2023"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Прозрачный",
+      "image": "img/catalog/engineer/white204w.jpg",
+      "buttons": [
+        {
+          "label": "4 мм Стандарт",
+          "description": {
+            "thickness": "4 мм",
+            "density": "0.470 кг/м²",
+            "warranty": "5 лет",
+            "lifeTime": "10 лет",
+            "price": "2207"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Прозрачный",
+      "image": "img/catalog/engineer/white204w.jpg",
+      "buttons": [
+        {
+          "label": "4 мм Премиум",
+          "description": {
+            "thickness": "4 мм",
+            "density": "0.600 кг/м²",
+            "warranty": "7 года",
+            "lifeTime": "14 лет",
+            "price": "3004"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Прозрачный",
+      "image": "img/catalog/engineer/white204w.jpg",
+      "buttons": [
+        {
+          "label": "4 мм ГОСТ",
+          "description": {
+            "thickness": "4 мм",
+            "density": "0.800 кг/м²",
+            "warranty": "15 лет",
+            "lifeTime": "20 лет",
+            "price": "3900"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Прозрачный",
+      "image": "img/catalog/engineer/white204w.jpg",
+      "buttons": [
+        {
+          "label": "6 мм Стандарт",
+          "description": {
+            "thickness": "6 мм",
+            "density": "0.750 кг/м²",
+            "warranty": "7 лет",
+            "lifeTime": "14 лет",
+            "price": "3733"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Прозрачный",
+      "image": "img/catalog/engineer/white204w.jpg",
+      "buttons": [
+        {
+          "label": "6 мм Премиум",
+          "description": {
+            "thickness": "6 мм",
+            "density": "1.00 кг/м²",
+            "warranty": "10 лет",
+            "lifeTime": "15 лет",
+            "price": "4995"
+          }
+        }
+      ]
+    }
+  ],
+  "greenhouse": [
+    {
+      "name": "Теплица Капля",
+      "image": "img/catalog/grennhouse/kaplya.jpg",
+      "availability": false,
+      "buttons": [
+        {
+          "label": "4 м",
+          "description": {
+            "secondArc": "",
+            "base": "20x40мм",
+            "arc": "20x40мм",
+            "distance": "0.65м",
+            "width": "3м",
+            "price": "16790"
+          }
+        },
+        {
+          "label": "6 м",
+          "description": {
+            "secondArc": "",
+            "base": "20x40мм",
+            "arc": "20x40мм",
+            "distance": "0.65м",
+            "width": "3м",
+            "price": "22310"
+          }
+        },
+        {
+          "label": "8 м",
+          "description": {
+            "secondArc": "",
+            "arc": "20x40мм",
+            "base": "20x40мм",
+            "distance": "0.65м",
+            "width": "3м",
+            "price": "27830"
+          }
+        },
+        {
+          "label": "10 м",
+          "description": {
+            "secondArc": "",
+            "arc": "20x40мм",
+            "base": "20x40мм",
+            "distance": "0.65м",
+            "width": "3м",
+            "price": "33350"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Теплица 20*40",
+      "image": "img/catalog/grennhouse/teplica20x40.jpg",
+      "availability": true,
+      "buttons": [
+        {
+          "label": "4 м",
+          "description": {
+            "secondArc": "",
+            "base": "20x40мм",
+            "arc": "20x40мм на ребро",
+            "distance": "0.67м",
+            "width": "3м",
+            "price": "12000"
+          }
+        },
+        {
+          "label": "6 м",
+          "description": {
+            "secondArc": "",
+            "base": "20x40мм",
+            "arc": "20x40мм на ребро",
+            "distance": "0.67м",
+            "width": "3м",
+            "price": "15400"
+          }
+        },
+        {
+          "label": "8 м",
+          "description": {
+            "secondArc": "",
+            "base": "20x40мм",
+            "arc": "20x40мм на ребро",
+            "distance": "0.67м",
+            "width": "3м",
+            "price": "18800"
+          }
+        },
+        {
+          "label": "10 м",
+          "description": {
+            "secondArc": "",
+            "base": "20x40мм",
+            "arc": "20x40мм на ребро",
+            "distance": "0.67м",
+            "width": "3м",
+            "price": "22200"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Парник",
+      "image": "img/catalog/grennhouse/parnik.jpg",
+      "availability": true,
+      "buttons": [
+        {
+          "label": "2 м",
+          "description": {
+            "arc": "20x20мм",
+            "hiegth": "0.7м",
+            "width": "1м",
+            "price": "4970"
+          }
+        },
+        {
+          "label": "3 м",
+          "description": {
+            "arc": "20x20мм",
+            "hiegth": "0.7м",
+            "width": "1м",
+            "price": "5800"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Теплица Прямостенная",
+      "image": "img/catalog/grennhouse/pryamosten.jpg",
+      "availability": true,
+      "buttons": [
+        {
+          "label": "4 м",
+          "description": {
+            "secondArc": "со 2ой дугой",
+            "base": "20x40мм",
+            "arc": "20x20мм и 20x40мм",
+            "distance": "0.67м",
+            "width": "3м",
+            "price": "30550"
+          }
+        },
+        {
+          "label": "6 м",
+          "description": {
+            "secondArc": "со 2ой дугой",
+            "base": "20x40мм",
+            "arc": "20x20мм и 20x40мм",
+            "distance": "0.67м",
+            "width": "3м",
+            "price": "41600"
+          }
+        },
+        {
+          "label": "8 м",
+          "description": {
+            "secondArc": "со 2ой дугой",
+            "base": "20x40мм",
+            "arc": "20x20мм и 20x40мм",
+            "distance": "0.67м",
+            "width": "3м",
+            "price": "52650"
+          }
+        },
+        {
+          "label": "10 м",
+          "description": {
+            "secondArc": "со 2ой дугой",
+            "base": "20x40мм",
+            "arc": "20x20мм и 20x40мм",
+            "distance": "0.67м",
+            "width": "3м",
+            "price": "63700"
+          }
+        }
+      ]
+    }
+  ]
+}
