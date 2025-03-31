@@ -72,6 +72,51 @@ header.scrolled {
     padding: 0 10px;
     width: 100%;
 }
+.blog .section__title {
+    text-align: center;
+    padding-top: 30px;
+}
+.blog_article__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin: 30px 0;
+}
+.blog_article__content .blog__prev {
+    width: 100%;
+    height: 200px;
+}
+.blog__btn-more {
+    color: #ffffff;
+    background-color: #13a537;
+    width: fit-content;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin: 0 auto;
+    transition: .2s;
+    font-weight: 500;
+}
+.blog__btn-more:hover {
+    background-color: #167e30;
+}
+.blog_article__content .blog__title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 70px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 10px;
+    background-color: #13a537;
+}
+.blog_article__content .blog_item::after {
+    top: 10px;
+    bottom: auto;
+    right: 10px;
+   
+}
 nav {
     display: flex;
     align-items: center;
@@ -1080,6 +1125,135 @@ grid-template-columns: 1fr 1fr 1fr;
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.blog_section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+}
+.blog__section-title {
+    text-align: center;
+    margin: 25px 0;
+}
+.blog_item {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    cursor: pointer;
+    border-radius: 16px;
+    overflow: hidden;
+    position: relative;
+   
+}
+.blog_item::after {
+    content: 'Читать';
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    background-color: #13a537;
+    color: #ffffff;
+    border-radius: 8px;
+    transition: .3s;
+    transform: translateX(-100%);
+    opacity: 0;
+}
+.blog_item:hover::after {
+    transform: translateX(0);
+    opacity: 1;
+}
+.blog__prev {
+    width: 100%;
+    height: 300px;
+}
+.blog__prev img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.blog__title {
+    font-size: 23px;
+    line-height: 100%;
+    min-height: 50px;
+    padding: 0 10px;
+}
+.blog__text {
+    padding: 0 10px;
+    opacity: 0.6;
+    font-weight: 500;
+   height: 100px;
+    overflow: hidden;
+   
+   
+}
+
+.blog_item.loading > * {
+    background-color: #00000060;
+}
+.blog__text::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background:linear-gradient(to top, #ffffff , #00000000 30% );
+}
+.blog_article {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.blog_article__img {
+    height: 450px;
+    width: 100%;
+}
+.blog_article__img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+}
+.blog_article__text {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.blog__text_title {
+    font-size: 22px;
+    text-align: center;
+}
+.blog__text-info {
+    font-size: 22px;
+    line-height: 150%;
+}
+.btn_back_blog {
+    margin-top: 60px;
+    padding: 10px 20px;
+    background-color: #13a537;
+    display: block;
+    width: fit-content;
+    font-weight: 500;
+    color: #ffffff;
+    border-radius: 8px;
+}
+.beard-crumb {
+    justify-content: start;
+    margin: 20px 0;
+   
+    font-weight: 500;
+}
+.beard-crumb a {
+    opacity: 0.8;
+}
+.beard-crumb__title {
+    max-width: 250px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-wrap: nowrap;
+}
 @media (max-width:1100px) {
     .product-container {
         grid-template-columns:  1fr;
@@ -1093,6 +1267,7 @@ grid-template-columns: 1fr 1fr 1fr;
     }
 }
 @media (max-width:900px) {
+   
     .product-container.container__polik-product {
         grid-template-columns:1fr;
     }
@@ -1187,6 +1362,14 @@ grid-template-columns: 1fr 1fr 1fr;
         display: grid;
         grid-template-columns: 1fr 1fr;
         
+    }
+    .blog_section,
+    .blog_article__content {
+        grid-template-columns: 1fr;
+    }
+    .blog__text-info {
+        font-size: 18px;
+        line-height: 150%;
     }
 }
 @media (max-width:500px) {
