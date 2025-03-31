@@ -54,7 +54,7 @@ function setArticleItems() {
         blogItem.classList.add('blog_item');
 
         blogItem.addEventListener('click', ()=> {
-            window.location.href = `./blog/article.html?id=${index}`;
+            window.location.href = `../blog/article.html?id=${index}`;
         })
 
         const blogPrev = document.createElement('div');
