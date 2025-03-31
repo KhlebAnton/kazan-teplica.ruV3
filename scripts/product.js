@@ -111,7 +111,7 @@ function setContent(sectionID, subID, scroll = true) {
                     productInfoHtml.classList.add('product__info_availability');
                 }
                 productInfoHtml.innerHTML = `
-                        <img class="product__info-img " src="/${product.image}" alt="${product.name}">
+                        <img class="product__info-img " src="../${product.image}" alt="${product.name}">
                     
                 `;
                 productHtml.appendChild(productInfoHtml);
