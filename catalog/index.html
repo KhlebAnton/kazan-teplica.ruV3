@@ -21,7 +21,36 @@
 </head>
 
 <body>
-
+    <div class="modal-form hidden">
+        <div class="modal-form__content">
+            <div class="modal-form__close"></div>
+            <form class="form" id="form">
+                <label class="modal-form__label">
+                    <span>Имя*</span>
+                    <input class="input_form" type="text" name="name" required>
+                </label>
+                <label class="modal-form__label">
+                    <span>Телeфон*</span>
+                    <input class="input_form" type="text" name="phone" required>
+                </label>
+                <label class="modal-form__label">
+                    <span>Email</span>
+                    <input class="input_form" type="email" name="email">
+                </label>
+                <input type="text" name="honeypot" style="display: none;" autocomplete="off">
+                <input type="hidden" id="recaptcha-token" name="recaptcha_token">
+                <label class="modal-form__label_privacy">
+                    <input type="checkbox" name="privacy" required>
+                    Я согласен на обработку моих персональных данных*
+                </label>
+                <button class="form_btn" type="submit">Отправить</button>
+                <span class="form_hints">* обязательно для заполнения</span>
+                <span class="google_protect">This site is protected by reCAPTCHA and the Google
+                    <a href="https://policies.google.com/privacy">Privacy Policy</a> and<a href="https://policies.google.com/terms">Terms of Service</a> apply.</span>
+            </form>
+            <div class="form_img"></div>
+        </div>
+    </div>
     <header class="header">
         <div class="container">
             <nav class="nav-desktop">
@@ -40,7 +69,10 @@
                     </ul>
                 </div>
 
-                <a href="#" class="nav_item call" ontouchstart>Написать нам</a>
+                <div class="header_btn_group">
+                    <a href="https://wa.me/79872165566" target="_blank" class="nav_item call" ontouchstart></a>
+                    <div class="btn_form-open">Заказать звонок</div>
+                </div>
             </nav>
             <nav class="nav-mobile">
                 <div class="logo">
@@ -66,7 +98,10 @@
                         
                         <li class="nav_item"><a href="../blog/">Статьи</a></li>
                         <li class="nav_item"><a href="../contacts">Контакты</a></li>
-                        <li class="nav_item"> <a href="#" class="nav_item call" ontouchstart>Написать нам</a></li>
+                        <li class="nav_item"> <div class="header_btn_group">
+                            <a href="https://wa.me/79872165566" target="_blank" class="nav_item call" ontouchstart></a>
+                            <div class="btn_form-open">Заказать звонок</div>
+                        </div></li>
                     </ul>
                     <div class="menu_mobile__nav_items-bottom">
                         <a href="tel:+79872165566">+7(987)-216-55-66</a>
@@ -167,11 +202,11 @@
 
     </footer>
     <script src="../scripts/product.js"></script>
-
+    <script src="../scripts/form.js"></script>
 
     <script src="../scripts/header.js"></script>
     <script src="../scripts/article.js"></script>
-
+    <script src="https://www.google.com/recaptcha/api.js?render=6Le1UAYrAAAAAAuoLJNXmeIZkW5gGggD3_vqld_L"></script>
 </body>
 
 </html>

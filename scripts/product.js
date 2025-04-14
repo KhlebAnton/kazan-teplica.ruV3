@@ -223,7 +223,10 @@ function setContent(sectionID, subID, scroll = true) {
                         <a href="tel:+79872165566">+7(987)-216-55-66</a>
                         <a href="tel:+79196897195">+7(919)-689-71-95</a>
                         
-                        <a href="#" class="nav_item call" ontouchstart>Написать нам</a>
+                        <div class="header_btn_group">
+                   <a href="https://wa.me/79872165566" target="_blank" class="nav_item call" ontouchstart></a>
+                    <div class="btn_form-open">Заказать звонок</div>
+                </div>
                         </div>
                     `;
                 }
@@ -290,7 +293,10 @@ function setContent(sectionID, subID, scroll = true) {
                     <a href="tel:+79872165566">+7(987)-216-55-66</a>
                     <a href="tel:+79196897195">+7(919)-689-71-95</a>
                     
-                    <a href="#" class="nav_item call" ontouchstart>Написать нам</a>
+                    <div class="header_btn_group">
+                   <a href="https://wa.me/79872165566" target="_blank" class="nav_item call" ontouchstart></a>
+                    <div class="btn_form-open">Заказать звонок</div>
+                </div>
                     </div>
                 `;
                 }
